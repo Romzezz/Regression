@@ -9,7 +9,7 @@
 		<h4>Наша <a href = "https://opml.atlassian.net/jira/software/projects/VA4/boards/3">Аgile-доска</a> в <a href = "https://www.atlassian.com/ru/software/jira">Jira</a></h4>
 		<hr>
 		<h3>Решение задач</h3>
-		<h4>Решить свою задачу можно в <a href="">Google Colab</a> </h4>
+		<h4>Решить свою задачу можно в <a href="https://colab.research.google.com/drive/1NXlZ2qofNQIbtMpfqnuFhETHGZuwyZ7Y?usp=sharing">Google Colab</a> </h4>
 		<hr>
 		<h3>Примеры решения задач</h3>
 		<h5>Ввод параметров функции: </h5> 
