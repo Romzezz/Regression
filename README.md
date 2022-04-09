@@ -13,24 +13,27 @@
 		<hr>
 		<h3>Примеры решения задач</h3>
 		<h5>Ввод параметров функции: </h5> 
-		<img src="l1.1"
-		     height="210px">
+		<img src="Images/l1.1.png"
+		     height="110px">
 		<h5>Вывод для регрессии y x1: </h5>                                                
-		<img src="l1.2"
-		     height="322px">
+		<img src="Images/l1.2.png"
+		     height="250px">
 		<h5>Вывод для регрессии y x2 : </h5> 
-		<img src="l1.3"
-		     height="210px">
+		<img src="Images/l1.3.png"
+		     height="250px">
 		<h5>Вывод для множественной регрессии y x : </h5> 
-		<img src="l1.4"
-		     height="210px">
+		<img src="Images/l1.4.png"
+		     height="400px">
 		<hr>
 		<h4>Ввод параметров функции: </h4>
-		<img src=""
-		     height="150px">
-		<h5>Вывод таблицы: </h5> 
-		<img src=""
-		     height="60px">
+		<img src="Images/p1.1.png"
+		     height="40px">
+		<h5>Вывод для регрессии y x1: </h5> 
+		<img src="Images/p1.2.png"
+		     height="400px">
+		<h5>Вывод для регрессии y x2: </h5> 
+		<img src="Images/p1.3.png"
+		     height="400px">
 		<hr>
 		<h3>Участники проекта</h3>
 		<h4>
